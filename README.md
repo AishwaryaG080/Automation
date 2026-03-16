@@ -1,2 +1,2 @@
-# Practice assignments covering Python fundamentals — from variables and loops
-to OOP, file handling, exception handling, and more.
+# A complete multi-module Python project featuring file backup & restore,
+email notifications, logging, history tracking, and shared utilities.
